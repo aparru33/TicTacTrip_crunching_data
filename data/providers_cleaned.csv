@@ -1,0 +1,228 @@
+id;company_id;provider_id;name;fullname;has_wifi;has_plug;has_adjustable_seats;has_bicycle;transport_type
+9;1;;ouibus;Ouibus;True;True;True;False;bus
+10;2;;deinbus;Deinbus.de;False;False;False;False;bus
+11;3;;infobus;Infobus;False;False;False;False;bus
+12;4;;studentAgency;Student Agency;False;False;False;False;bus
+13;5;;flixbus;Flixbus;True;False;False;False;bus
+14;6;;driivme;DriiveMe;False;False;False;False;car
+15;8;;alsa;Alsa;False;False;False;False;bus
+16;9;;distribusion;Distribusion;False;False;False;False;bus
+17;9;31;expressbusMunchen;Expressbus Munchen;False;False;False;False;bus
+18;9;33;berlinLinienBus;Berlin Linien Bus;False;False;False;False;bus
+19;9;37;ostfrieslandexpress;OstfrieslandExpress;False;False;False;False;bus
+20;9;41;icBus;IC Bus;False;False;False;False;bus
+21;9;45;busandfly;Busandfly;False;False;False;False;bus
+22;9;47;publicexpress;Publicexpress;False;False;False;False;bus
+23;9;49;hahnExpress;Hahn Express;False;False;False;False;bus
+24;9;57;regionalverkehrErzgebirge;Regionalverkehr Erzgebirge;False;False;False;False;bus
+25;9;65;autobusoberbayern;AutobusOberbayern;False;False;False;False;bus
+26;9;77;schillingOmnibusverkehr;Schilling Omnibusverkehr;False;False;False;False;bus
+27;9;81;kraftReisen;Kraft Reisen;False;False;False;False;bus
+28;9;83;mayerMayer;Mayer  Mayer;False;False;False;False;bus
+29;9;85;ecolines;ECOLINES;False;False;False;False;bus
+30;9;111;vogtlandFernbus;Vogtland Fernbus;False;False;False;False;bus
+31;9;115;orlandREISEN;ORLAND REISEN;False;False;False;False;bus
+32;9;129;postbus;Postbus;False;False;False;False;bus
+33;9;141;expressbus;ExpressBus;False;False;False;False;bus
+34;9;149;berlinShuttle;Berlin Shuttle;False;False;False;False;bus
+35;9;151;matzesminibus;MatzesMinibus;False;False;False;False;bus
+36;9;159;autotrans;Autotrans;False;False;False;False;bus
+37;9;161;interbusKosiceExpress;Interbus Kosice Express;False;False;False;False;bus
+38;9;163;nisEkspres;Nis Ekspres;False;False;False;False;bus
+39;9;165;silvanaTour;Silvana Tour;False;False;False;False;bus
+40;9;167;sofiabus;SofiaBus;False;False;False;False;bus
+41;9;169;sportTurist;Sport Turist;False;False;False;False;bus
+42;9;171;turancar;Turancar;False;False;False;False;bus
+43;9;173;bigsimHalilovic;BIGSIM Halilovic;False;False;False;False;bus
+44;9;179;hkx;HKX;False;False;False;False;bus
+45;9;181;euroBus;Euro Bus;False;False;False;False;bus
+46;9;185;onebus;ONEBUS;False;False;False;False;bus
+47;9;189;usedomerBaderbahn;Usedomer Baderbahn;False;False;False;False;bus
+48;9;195;vincek;Vincek;False;False;False;False;bus
+49;9;203;semitimes;SemiTimeS;False;False;False;False;bus
+50;9;205;citybusexpress;CityBusExpress;False;False;False;False;bus
+51;9;207;unionivkoni;UnionIVKONI;False;False;False;False;bus
+52;9;209;mikanovicOmnibus;Mikanovic Omnibus;False;False;False;False;bus
+53;9;213;brabusz;Brabusz;False;False;False;False;bus
+54;9;215;srbijaToursInternational;Srbija Tours International;False;False;False;False;bus
+55;9;217;autoherc;AUTOHERC;False;False;False;False;bus
+56;9;219;jaskaTurist;Jaska Turist;False;False;False;False;bus
+57;9;221;europabusKarlovac;Europabus Karlovac;False;False;False;False;bus
+58;9;223;europabusCazin;Europabus Cazin;False;False;False;False;bus
+59;9;227;ireBerlinHamburg;IRE BerlinHamburg;False;False;False;False;bus
+60;9;229;domoReisen;Domo Reisen;False;False;False;False;bus
+61;9;267;gameksd.o.o.;Gameks d.o.o.;False;False;False;False;bus
+62;9;269;ludwigReisen;Ludwig Reisen;False;False;False;False;bus
+63;9;271;db;DB;False;False;False;False;bus
+64;9;285;eurobusOnline;Eurobus Online;False;False;False;False;bus
+66;9;289;eskanaBus;Eskana Bus;False;False;False;False;bus
+67;9;291;asKarpatenKrimTours;AS Karpaten  Krim Tours;False;False;False;False;bus
+68;9;293;blueLine;Blue Line;False;False;False;False;bus
+69;9;295;hasTurizm;Has Turizm;False;False;False;False;bus
+70;9;297;bozur;Bozur;False;False;False;False;bus
+71;9;299;nationalExpress;National Express;False;False;False;False;bus
+72;9;301;www.bus.today;Www.bus.today;False;False;False;False;bus
+73;9;303;polluzhaTours;Polluzha Tours;False;False;False;False;bus
+75;9;307;radinaVIP;Radina VIP;False;False;False;False;bus
+79;9;315;busOperator;Bus Operator;False;False;False;False;bus
+80;9;319;407Pattana;407 Pattana;False;False;False;False;bus
+81;9;321;88ExpressBus;88 Express Bus;False;False;False;False;bus
+82;9;323;99CoachlandExpress;99 Coachland Express;False;False;False;False;bus
+83;9;325;adangSeaTour;Adang Sea Tour;False;False;False;False;bus
+84;9;327;airUbon;Air Ubon;False;False;False;False;bus
+85;9;329;alisanGoldenCoach,OneUtama;Alisan Golden Coach, One Utama;False;False;False;False;bus
+86;9;331;aran;Aran;False;False;False;False;bus
+87;9;333;bangkokBusline;Bangkok Busline;False;False;False;False;bus
+88;9;335;bellTravel;Bell Travel;False;False;False;False;bus
+89;9;337;billionStarsExpress;Billion Stars Express;False;False;False;False;bus
+90;9;339;budsarakhamTour;Budsarakham Tour;False;False;False;False;bus
+91;9;341;burapha;Burapha;False;False;False;False;bus
+92;9;343;busExpress;Bus Express;False;False;False;False;bus
+93;9;345;cepatSediaExpress;Cepat Sedia Express;False;False;False;False;bus
+94;9;347;chanapaiTour;Chanapai Tour;False;False;False;False;bus
+95;9;349;csTravelTours;CS Travel  Tours;False;False;False;False;bus
+96;9;351;delimaExpress;Delima Express;False;False;False;False;bus
+97;9;353;eagleExpress;Eagle Express;False;False;False;False;bus
+98;9;355;eraMesraExpress;ERA Mesra Express;False;False;False;False;bus
+99;9;357;esanTour;Esan Tour;False;False;False;False;bus
+100;9;359;etikaDeltaSdnBhd;Etika Delta Sdn Bhd;False;False;False;False;bus
+101;9;361;fiveStarsExecutiveExpress;Five Stars  Executive Express;False;False;False;False;bus
+102;9;363;goldenCoachExpress;Golden Coach Express;False;False;False;False;bus
+103;9;365;gtExpress;GT Express;False;False;False;False;bus
+104;9;367;hatyaiInterTopExpress;Hatyai Inter Top Express;False;False;False;False;bus
+105;9;369;hidayahSutera;Hidayah Sutera;False;False;False;False;bus
+106;9;371;jasmineExpress;Jasmine Express;False;False;False;False;bus
+107;9;373;kesatuanExpress;Kesatuan Express;False;False;False;False;bus
+108;9;375;kingdomTour;Kingdom Tour;False;False;False;False;bus
+109;9;377;kkklExpress;KKKL Express;False;False;False;False;bus
+110;9;379;kmkStarcoach;KMK Starcoach;False;False;False;False;bus
+111;9;381;komtarGunungRaya;Komtar Gunung Raya;False;False;False;False;bus
+112;9;383;konsortiumBasEkspres;Konsortium Bas Ekspres;False;False;False;False;bus
+113;9;385;kpbExpress;KPB Express;False;False;False;False;bus
+114;9;387;kraduengTour;Kradueng Tour;False;False;False;False;bus
+115;9;389;kwanCheeVeeTour;Kwan Chee Vee Tour;False;False;False;False;bus
+116;9;391;kwokPingExpress;Kwok Ping Express;False;False;False;False;bus
+117;9;393;lignite;Lignite;False;False;False;False;bus
+118;9;395;ligniteTour;Lignite Tour;False;False;False;False;bus
+119;9;397;lotusPhibunTour;Lotus Phibun Tour;False;False;False;False;bus
+120;9;399;mayangSariExpress;Mayang Sari Express;False;False;False;False;bus
+121;9;401;nakhonSi;Nakhon Si;False;False;False;False;bus
+122;9;403;newViriya;New Viriya;False;False;False;False;bus
+123;9;405;niomitTour;Niomit Tour;False;False;False;False;bus
+124;9;407;pattayaBus;Pattaya Bus;False;False;False;False;bus
+125;9;409;phantip1970;Phantip 1970;False;False;False;False;bus
+126;9;411;phetPrasert;Phet Prasert;False;False;False;False;bus
+127;9;413;phuLuangTour;Phu Luang Tour;False;False;False;False;bus
+128;9;415;phuketTravel;Phuket Travel;False;False;False;False;bus
+129;9;417;piya;Piya;False;False;False;False;bus
+130;9;419;piyaChaiPatthana;Piya Chai Patthana;False;False;False;False;bus
+131;9;421;piyaPrasertTour;Piya Prasert Tour;False;False;False;False;bus
+132;9;423;prakitYon;Prakit Yon;False;False;False;False;bus
+133;9;425;praya;Praya;False;False;False;False;bus
+134;9;427;premPracha;Prem Pracha;False;False;False;False;bus
+135;9;429;rungKit;Rung Kit;False;False;False;False;bus
+136;9;431;rungPrasert;Rung Prasert;False;False;False;False;bus
+137;9;433;saengPrathipDaeng;Saeng Prathip Daeng;False;False;False;False;bus
+138;9;435;sahaphan;Sahaphan;False;False;False;False;bus
+139;9;437;sappaisal;Sappaisal;False;False;False;False;bus
+140;9;439;sawadeeEsan;Sawadee Esan;False;False;False;False;bus
+141;9;441;sawadeeTour;Sawadee Tour;False;False;False;False;bus
+142;9;443;seExpress;SE Express;False;False;False;False;bus
+143;9;445;seasonsExpress;Seasons Express;False;False;False;False;bus
+144;9;447;siamFirst;Siam First;False;False;False;False;bus
+145;9;449;siamLaneTour;Siam Lane Tour;False;False;False;False;bus
+146;9;451;sombat;Sombat;False;False;False;False;bus
+147;9;453;sriMongkol;Sri Mongkol;False;False;False;False;bus
+148;9;455;sriSiamTour;Sri Siam Tour;False;False;False;False;bus
+149;9;457;sriSuthepTour;Sri Suthep Tour;False;False;False;False;bus
+150;9;459;sriTrang;Sri Trang;False;False;False;False;bus
+151;9;461;starCoachExpressSdnBhd;Star Coach Express Sdn Bhd;False;False;False;False;bus
+152;9;463;starShuttleExpress;Star Shuttle Express;False;False;False;False;bus
+153;9;465;starqistnaExpress;StarQistna Express;False;False;False;False;bus
+154;9;467;suasanaEdaranExpress;Suasana Edaran Express;False;False;False;False;bus
+155;9;469;sueksaTour;Sueksa Tour;False;False;False;False;bus
+156;9;471;sunBus;Sun Bus;False;False;False;False;bus
+157;9;473;superNiceExpress;Super Nice Express;False;False;False;False;bus
+158;9;475;suvarnabhumiBurapha;Suvarnabhumi Burapha;False;False;False;False;bus
+159;9;477;suwannatee;Suwannatee;False;False;False;False;bus
+160;9;479;swarnaBumiExpress;Swarna Bumi Express;False;False;False;False;bus
+161;9;481;thaiSriram;Thai Sriram;False;False;False;False;bus
+162;9;483;thaisanuanTour;Thaisanuan Tour;False;False;False;False;bus
+163;9;485;thianChai;Thian Chai;False;False;False;False;bus
+164;9;487;transtarTravel;Transtar Travel;False;False;False;False;bus
+165;9;489;tripleT;Triple T;False;False;False;False;bus
+166;9;491;unititiExpress;Unititi Express;False;False;False;False;bus
+167;9;493;yakinBGExpress;Yakin BG Express;False;False;False;False;bus
+168;9;495;yasothonTour;Yasothon Tour;False;False;False;False;bus
+169;9;497;yoyoExpress;YoYo Express;False;False;False;False;bus
+170;9;499;drinatrans;Drinatrans;False;False;False;False;bus
+171;9;503;simeonidisTours;Simeonidis Tours;False;False;False;False;bus
+172;9;505;vipEuropa;VIP Europa;False;False;False;False;bus
+173;9;507;eurolinesUK;Eurolines UK;False;False;False;False;bus
+174;9;509;pyrzowiceEkspres;Pyrzowice Ekspres;False;False;False;False;bus
+175;9;511;hinztravel;HinzTravel;False;False;False;False;bus
+176;9;513;calandaViaggi;Calanda Viaggi;False;False;False;False;bus
+177;9;515;poloniaTours;Polonia Tours;False;False;False;False;bus
+178;9;517;madeltransEurolines;Madeltrans Eurolines;False;False;False;False;bus
+179;9;519;arda;Arda;False;False;False;False;bus
+180;9;521;intercarsEurope;Intercars Europe;False;False;False;False;bus
+181;9;523;ulusoy;Ulusoy;False;False;False;False;bus
+182;9;525;ollex;Ollex;False;False;False;False;bus
+183;9;527;retman;Retman;False;False;False;False;bus
+184;9;529;eberhardtTravel;Eberhardt Travel;False;False;False;False;bus
+185;9;531;elabus;Elabus;False;False;False;False;bus
+186;9;533;pragueAirportShuttle;Prague Airport Shuttle;False;False;False;False;bus
+187;9;535;goopti;GoOpti;False;False;False;False;bus
+188;9;537;andradeVoyages;Andrade Voyages;False;False;False;False;bus
+189;9;539;christianTransfers;Christian Transfers;False;False;False;False;bus
+190;9;541;sindbad;Sindbad;False;False;False;False;bus
+191;9;543;tourbusBulgaria;Tourbus Bulgaria;False;False;False;False;bus
+192;9;545;globtour;Globtour;False;False;False;False;bus
+193;9;547;huben;Huben;False;False;False;False;bus
+194;9;549;schipholHotelShuttle;Schiphol Hotel Shuttle;False;False;False;False;bus
+195;9;551;transjug;TransJug;False;False;False;False;bus
+196;9;553;rally13;Rally 13;False;False;False;False;bus
+197;9;555;lauroraViaggi;LAurora Viaggi;False;False;False;False;bus
+198;9;557;comatiPSG;Comati PSG;False;False;False;False;bus
+199;9;559;adamisTours;Adamis Tours;False;False;False;False;bus
+200;9;561;racicEurobus;Racic Eurobus;False;False;False;False;bus
+201;9;563;coraliHolidays;Corali Holidays;False;False;False;False;bus
+202;9;565;magicalShuttle;Magical Shuttle;False;False;False;False;bus
+203;9;567;jetbus;Jetbus;False;False;False;False;bus
+204;9;569;aerobus;AeroBus;False;False;False;False;bus
+205;9;571;transfersPro;Transfers Pro;False;False;False;False;bus
+206;9;573;lvivInturtrans;Lviv Inturtrans;False;False;False;False;bus
+207;9;575;panonijabus;Panonijabus;False;False;False;False;bus
+208;9;577;galicjaExpress;Galicja Express;False;False;False;False;bus
+209;9;579;crnjaTours;Crnja Tours;False;False;False;False;bus
+210;9;581;fils;Fils;False;False;False;False;bus
+211;9;583;estGdansk;EST Gdansk;False;False;False;False;bus
+212;9;589;drdTurizem;DRD Turizem;False;False;False;False;bus
+214;9;593;euroclub;Euroclub;False;False;False;False;bus
+215;9;595;panturist;Panturist;False;False;False;False;bus
+216;9;597;navettedeVatry;Navette de Vatry;False;False;False;False;bus
+217;9;599;flybusIceland;Flybus Iceland;False;False;False;False;bus
+218;9;601;smsFlughafentransfer;SMS Flughafentransfer;False;False;False;False;bus
+219;9;603;airDecker;Air Decker;False;False;False;False;bus
+220;9;605;eilatShuttle;Eilat Shuttle;False;False;False;False;bus
+221;9;607;wagnerTransport;Wagner Transport;False;False;False;False;bus
+222;9;611;fiumicinoExpress;Fiumicino Express;False;False;False;False;bus
+4511;10;;vsc;Voyages SNCF;False;False;False;False;train
+8371;20;;isilines;Isilines;True;True;True;False;bus
+8372;20;;eurolines;Eurolines;False;False;True;False;bus
+8373;20;;movelia;Movelia;False;False;False;False;bus
+8374;20;;transdev;Transdev;False;False;False;False;bus
+8375;10;0;trainter;TER;False;False;True;False;train
+8376;10;1;tgv;TGV;False;False;True;False;train
+8377;10;2;corailintercite;Intercités;False;False;True;False;train
+8378;10;3;tramtrain;Tramtrain;False;False;True;False;train
+8379;10;4;navette;Navette Keolis;False;False;True;False;bus
+8380;10;5;train;TER;False;False;True;False;train
+8381;10;6;coraillunea;Intercités de Nuit;False;False;True;False;train
+8382;10;8;eurostar;Eurostar;False;False;True;False;train
+8383;10;9;corail;Intercités;False;False;True;False;train
+8384;10;16;thalys;Thalys;True;True;False;True;train
+8385;11;;bbc;Blablacar;False;False;False;False;carpooling
+8387;30;;vatry;Vatry;False;False;False;False;bus
+8388;40;;beauval;Beauval;False;False;False;False;bus
+8389;12;;idvroom;idVroom;False;False;False;False;carpooling
